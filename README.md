@@ -1,5 +1,6 @@
 # manual-transmit-receive
 #Transmit-receive app mobi with board kit pca10040.
+
 1.from board pca10040 will send data to app mobi:
 
   Thigh[1]=51cm
